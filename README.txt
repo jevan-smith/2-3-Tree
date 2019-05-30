@@ -1,18 +1,17 @@
-----------------------------------------------------------
-.:GROUP MEMBERS:.
-----------------------------------------------------------
+## Authors
 Made by: Jevan Smith, and Isaac Davidson
 
-----------------------------------------------------------
-.:REQUIREMENTS:.
-----------------------------------------------------------
-- Built using C++17 (can run on 'blue')
-- type "make" to build file (on blue)
-- after compiling type "./main.out <inputtext.txt>" to run file (on blue)
+## Project Goals
+1. Implement 2-3 Tree to build an index from a text document. 
+2. Compare the complexity of searching for a string using a 2-3 tree with that of a BST tree.
 
-----------------------------------------------------------
-.:EXPECTED OUTPUTS BELOW:.
-----------------------------------------------------------
+## Requirements
+- Built using C++17
+- type "make" to build file (on linux)
+- after compiling type "./main.out <inputtext.txt>" to run file (on linux)
+
+## Expected Outputs Below
+<pre>
 =====================================================
 - Program Main Menu
 =====================================================
